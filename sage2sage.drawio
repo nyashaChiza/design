@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T10:18:54.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.4.1" etag="2hgHLNpOiCW2PhadEexO" type="github"><diagram id="Vuoyo6VE9m69thGJVHAY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-01T14:12:54.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="H7N7Z_NRYozsAx_KEg2O" type="github">
+  <diagram id="zOz9JNRdx4cPPUi2tagx" name="Page-1">
+    <mxGraphModel dx="946" dy="1413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="ahDNmzRv6jfMNTEkgj-N-4" target="ahDNmzRv6jfMNTEkgj-N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-4" value="SAGE (ZWL)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="147" y="-405" width="120" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="ahDNmzRv6jfMNTEkgj-N-5" target="ahDNmzRv6jfMNTEkgj-N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-5" value="SAGE (USD)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="613" y="-406" width="120" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="ahDNmzRv6jfMNTEkgj-N-7" target="ahDNmzRv6jfMNTEkgj-N-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="ahDNmzRv6jfMNTEkgj-N-7" target="ahDNmzRv6jfMNTEkgj-N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-7" value="Intergration&lt;br&gt;Module&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="379.5" y="-286" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-8" value="Employee&amp;nbsp;&lt;br&gt;Management" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="301" y="-107" width="277" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-9" value="Payroll Sync Manager" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="301" y="-465" width="277" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-14" value="SAGE (USD)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="165" width="588" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-15" value="SAGE Implementation USD Mirror&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#1D3557;" vertex="1" parent="ahDNmzRv6jfMNTEkgj-N-14">
+          <mxGeometry y="30" width="588" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-18" value="SAGE (ZWL)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="42" width="588" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-34" value="SAGE Implementation ZWL Mirror&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#1D3557;" vertex="1" parent="ahDNmzRv6jfMNTEkgj-N-18">
+          <mxGeometry y="30" width="588" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-26" value="Payroll Data-Sync Manager&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="588" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-28" value="responsible for syncing payroll data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#1D3557;" vertex="1" parent="ahDNmzRv6jfMNTEkgj-N-26">
+          <mxGeometry y="30" width="588" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-31" value="Employee Data Manager" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="373" width="588" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahDNmzRv6jfMNTEkgj-N-32" value="responsible for syncing&amp;nbsp; employee data(New Additions, Terminations, Updates)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#1D3557;" vertex="1" parent="ahDNmzRv6jfMNTEkgj-N-31">
+          <mxGeometry y="30" width="588" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
