@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T13:03:13.408Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="XNSRd-dXB0JOc_wXs4To" type="github"><diagram name="Page-1" id="3iprgxua8wvyemCYHZg1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-11T13:42:09.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="v4U5R9XNXnSJT5qRaCr5" version="20.8.20" type="github">
+  <diagram name="Page-1" id="3iprgxua8wvyemCYHZg1">
+    <mxGraphModel dx="954" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DB_163lgj7qDYbiZlJsm-1" value="Project Management" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-2" value="Category Management" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-3" value="Question Management" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-5" value="Data Preprocessor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-6" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="517" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-8" value="User Management" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-9" value="data analysis" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-10" value="chart &amp;amp; plot management" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="DB_163lgj7qDYbiZlJsm-3" target="DB_163lgj7qDYbiZlJsm-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="370" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="220" />
+              <mxPoint x="320" y="220" />
+              <mxPoint x="420" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="DB_163lgj7qDYbiZlJsm-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="573" y="240" as="sourcePoint" />
+            <mxPoint x="428" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="573" y="220" />
+              <mxPoint x="500" y="220" />
+              <mxPoint x="420" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="DB_163lgj7qDYbiZlJsm-2" target="DB_163lgj7qDYbiZlJsm-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="sourcePoint" />
+            <mxPoint x="470" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="DB_163lgj7qDYbiZlJsm-10" target="DB_163lgj7qDYbiZlJsm-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="190" as="sourcePoint" />
+            <mxPoint x="520" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="150" as="sourcePoint" />
+            <mxPoint x="360" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="DB_163lgj7qDYbiZlJsm-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="370" />
+              <mxPoint x="260" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="DB_163lgj7qDYbiZlJsm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="370" />
+              <mxPoint x="575" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="DB_163lgj7qDYbiZlJsm-5" target="DB_163lgj7qDYbiZlJsm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="430" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB_163lgj7qDYbiZlJsm-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="DB_163lgj7qDYbiZlJsm-6" target="DB_163lgj7qDYbiZlJsm-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="510" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
